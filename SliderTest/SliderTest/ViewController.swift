@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  SliderCollor
+//  SliderTest
 //
-//  Created by Lepestok Jora on 28.10.2022.
+//  Created by Lepestok Jora on 31.10.2022.
 //
 
 import UIKit
